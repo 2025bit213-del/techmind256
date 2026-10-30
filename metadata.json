@@ -1,0 +1,6 @@
+{
+  "name": "VML Recover",
+  "description": "VML Recover loan recovery and debt collection management application",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

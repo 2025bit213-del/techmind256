@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_project_id">vml-recovery-app</string>
+    <string name="firebase_database_url">https://vml-recovery-app-default-rtdb.firebaseio.com</string>
+</resources>

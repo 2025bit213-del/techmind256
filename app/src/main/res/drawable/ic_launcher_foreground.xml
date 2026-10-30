@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Security Shield Base -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M54,20 L78,30 C78,60 54,82 54,88 C54,82 30,60 30,30 Z" />
+    <!-- Shield Inner Core -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,25 L73,34 C73,58 54,76 54,81 C54,76 35,58 35,34 Z"
+        android:alpha="0.85" />
+    <!-- Recovery Arrow & Check Mark Emblem -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,54 L42,48 L39,51 L48,60 L68,40 L65,37 Z" />
+    <!-- Circular Trust Arc -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:pathData="M54,34 C63.9,34 72,42.1 72,52 C72,61.9 63.9,70 54,70 C44.1,70 36,61.9 36,52"
+        android:strokeLineCap="round" />
+</vector>
